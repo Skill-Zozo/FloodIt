@@ -19,6 +19,9 @@ true
 make run
 true
 
+/**************THE COMPUTER PLAYING THE GAME****************/
+make solve
+
 have fun :)
 
 Author: Banele Matsebula

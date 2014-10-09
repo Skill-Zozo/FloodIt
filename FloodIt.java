@@ -8,7 +8,7 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.FileWriter;
 import java.io.*;
-//Student number: 18151450			Name: BANELE MATSEBULA			O:100%		Class: FloodIt(THE GAME ITSELF... Beaware of the variables required as input) 1 of  
+//			Name: BANELE MATSEBULA			O:100%		Class: FloodIt(THE GAME ITSELF... Beaware of the variables required as input) 
 public class FloodIt
 {
 	public static void main(String[] args) throws IOException
